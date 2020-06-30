@@ -1,0 +1,11 @@
+<nav class="menu">
+    <ul class="menu__inner">
+        {{- $currentPage := . -}}
+        {{ range .Site.Menus.main -}}
+            <li><a href="{{ .URL | absLangURL }}"><b>{{ .Name }}</b></a></li>
+        {{- end }}
+        {{ range .Site.Menus.external -}}
+            <li><a href="{{ .URL | absLangURL }}" target="_blank">{{ .Name }}</a></li>
+        {{- end }}
+    </ul>
+</nav>

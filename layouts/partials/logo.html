@@ -1,0 +1,18 @@
+<a href="{{ if .Site.Params.Logo.LogoHomeLink }}{{ .Site.Params.Logo.LogoHomeLink }}{{else}}{{ .Site.BaseURL }}{{ end }}" style="text-decoration: none;">
+    <div class="logo">
+        {{ if .Site.Params.Logo.path }}
+            <img src="{{ .Site.Params.Logo.path }}" alt="{{ .Site.Params.Logo.alt }}" />
+        {{ else }}
+            <span class="logo__mark">></span>
+            <span class="logo__text" style="text-align:left">
+                {{ with .Site.Params.Logo.logoText }}{{ . }}{{ else }}hello{{ end }}<br />
+                {{ with .Site.Params.Logo.logoText2 }}{{ . }}{{ end }}
+                <span class="logo__cursor" style=
+                    "{{ with.Site.Params.Logo.logoCursorDisabled }}visibility:hidden;{{ end }}
+                    {{ with.Site.Params.Logo.logoCursorColor    }}background-color:{{ . }};{{ end }}
+                    {{ with.Site.Params.Logo.logoCursorAnimate  }}animation-duration:{{ . }};{{ end }}">
+                </span>
+            </span>
+        {{ end }}
+    </div>
+</a>

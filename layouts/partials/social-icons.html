@@ -1,0 +1,5 @@
+<div id="contact-icons">
+{{ range . -}}
+    &nbsp; <a href="{{ .url }}" target="_blank" rel="noopener" title="{{ .desc | humanize }}">{{ partial "svg.html" . }}</a> &nbsp;
+{{- end -}}
+</div>

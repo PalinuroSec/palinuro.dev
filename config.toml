@@ -1,0 +1,196 @@
+baseURL = "https://palinuro.dev"
+title   = "Lorenzo \"Palinuro\" Faletra"
+languageCode = "en-us"
+theme = "hello-friend-ng"
+
+PygmentsCodeFences = true
+PygmentsStyle = "monokai"
+
+paginate  = 10
+rssLimit  = 10  # Maximum number of items in the RSS feed.
+
+archetypeDir = "archetypes"
+contentDir   = "content"
+dataDir      = "data"
+layoutDir    = "layouts"
+publishDir   = "public"
+
+buildDrafts  = false
+buildFuture  = false
+buildExpired = false
+canonifyURLs = true
+
+enableRobotsTXT = true
+enableGitInfo   = false
+enableEmoji     = true
+enableMissingTranslationPlaceholders = false
+disableRSS     = false
+disableSitemap = false
+disable404     = false
+disableHugoGeneratorInject = false
+
+[permalinks]
+  posts = "/posts/:year/:month/:title/"
+
+[author]
+  name = "Lorenzo \"Palinuro\" Faletra"
+
+[blackfriday]
+  hrefTargetBlank = true
+
+[taxonomies]
+  tag      = "tags"
+  category = "categories"
+  series   = "series"
+
+[markup.goldmark.renderer]
+  unsafe= true
+
+[params]
+  dateform        = "Jan 2, 2006"
+  dateformShort   = "Jan 2"
+  dateformNum     = "2006-01-02"
+  dateformNumTime = "2006-01-02 15:04 -0700"
+
+  # Metadata mostly used in document's head
+  description = "My personal website"
+  keywords = ""
+  images = [""]
+
+  homeSubtitle = "My personal website"
+
+  # Prefix of link to the git commit detail page. GitInfo must be enabled.
+  # gitUrl = ""
+
+  # Set disableReadOtherPosts to true in order to hide the links to other posts.
+  disableReadOtherPosts = false
+
+  # Integrate Javascript files or stylesheets by adding the url to the external assets or by
+  # linking local files with their path relative to the static folder, e.g. "css/styles.css"
+  customCSS = [
+    "css/flag-icon.min.css",
+    "css/palinuro.css"
+  ]
+  customJS  = []
+
+  # Toggle this option need to rebuild SCSS, requires extended version of Hugo
+  justifyContent = false  # Set "text-align: justify" to .content.
+
+  # Default theme "light" or "dark"
+  defaultTheme = "dark"
+  themeColor = "#252627"
+
+  # Colors for favicons
+  [params.favicon.color]
+    mask = "#252627"
+    msapplication = "#252627"
+    theme = "#252627"
+
+  [params.logo]
+    logoText     = "┌──[palinuro@parrot]─[/]"
+    logoText2    = "└──╼ $ "
+    logoHomeLink = "/"
+    # Set true to remove the logo cursor entirely.
+    # logoCursorDisabled = false
+    # Set to a valid CSS color to change the cursor in the logo.
+    # logoCursorColor    = "#67a2c9"
+    # Set to a valid CSS time value to change the animation duration, "0s" to disable.
+    # logoCursorAnimate  = "2s"
+
+  [params.portrait]
+    path = "/img/avatar.jpg"
+    alt = "Portrait"
+
+  # Social icons
+
+  [[params.social]]
+    name = "gpg"
+    desc = "Gpg Cryptographic key"
+    url = "https://deb.parrot.sh/misc/palinuro.gpg"
+
+  [[params.social]]
+    name = "keybase"
+    desc = "Keybase"
+    url = "https://keybase.io/palinuro"
+
+  [[params.social]]
+    name = "matrix"
+    desc = "Matrix"
+    url = "https://matrix.to/#/@palinuro:matrix.org"
+
+  [[params.social]]
+    name = "mastodon"
+    desc = "Mastodon"
+    url = "https://social.librem.one/@palinuro"
+
+  [[params.social]]
+    name = "telegram"
+    desc = "Telegram"
+    url  = "https://t.me/palinuro"
+
+  [[params.social]]
+    name = "github"
+    desc = "Github"
+    url  = "https://github.com/palinurosec"
+
+  [[params.social]]
+    name = "gitlab"
+    desc = "parrot Nest"
+    url  = "https://nest.parrotsec.org/palinuro"
+
+  [[params.social]]
+    name = "instagram"
+    desc = "Instagram"
+    url  = "https://instagram.com/palinurosec"
+
+  [[params.social]]
+    name = "twitter"
+    desc = "Twitter"
+    url  = "https://twitter.com/palinurosec"
+
+  [[params.social]]
+    name = "linkedin"
+    desc = "Linkedin"
+    url  = "https://www.linkedin.com/in/lorenzofaletra"
+
+  [[params.social]]
+    name = "email"
+    desc = "Personal Email (Protonmail)"
+    url  = "mailto:lorenzo@palinuro.dev"
+
+  [[params.social]]
+    name = "email"
+    desc = "Parrot Security"
+    url  = "mailto:palinuro@parrotsec.org"
+
+  [[params.social]]
+    name = "email"
+    desc = "Linux"
+    url  = "mailto:palinuro@linux.it"
+
+
+
+
+[languages]
+  [languages.en]
+    subtitle  = "Palinuro.dev"
+    weight    = 1
+    copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
+
+[menu]
+  [[menu.external]]
+    identifier = "mirror"
+    name       = "Mirror"
+    url        = "https://mirror.palinuro.dev/"
+  [[menu.external]]
+    identifier = "cryptpad"
+    name       = "CryptPad"
+    url        = "https://crypt.palinuro.dev/"
+  [[menu.main]]
+    identifier = "hire"
+    name       = "HireMe"
+    url        = "hire/"
+  [[menu.main]]
+    identifier = "posts"
+    name       = "Posts"
+    url        = "posts/"
