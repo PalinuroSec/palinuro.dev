@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Index on Lorenzo &#34;Palinuro&#34; Faletra</title>
+    <link>https://palinuro.dev/</link>
+    <description>Recent content in Index on Lorenzo &#34;Palinuro&#34; Faletra</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
+    
+	<atom:link href="https://palinuro.dev/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>[ITA] Italian Hacker Camp  Parrot OS</title>
+      <link>https://palinuro.dev/posts/1/01/ita-italian-hacker-camp-parrot-os/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://palinuro.dev/posts/1/01/ita-italian-hacker-camp-parrot-os/</guid>
+      <description>Presentazione Parrot OS ad Italian Hacker Camp 2018
+  Video
+Slides</description>
+    </item>
+    
+    <item>
+      <title>[ITA] Linux Day Palermo  Intelligenza Artificiale</title>
+      <link>https://palinuro.dev/posts/1/01/ita-linux-day-palermo-intelligenza-artificiale/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://palinuro.dev/posts/1/01/ita-linux-day-palermo-intelligenza-artificiale/</guid>
+      <description>Talk: Difendersi nell&amp;rsquo;era dell&amp;rsquo;intelligenza artificiale Tenutosi in occasione del Linux Day 2019 di Palermo [ENG] organizzato dal Linux User Group FreeCircle
+  Abstract [ITA] Tra deep fake, sorveglianza di massa, pubblicità targetizzata e fake news, l&amp;rsquo;intelligenza artificiale sta modificando radicalmente le nostre vite in maniera pervasiva e fuori dal nostro controllo. Conoscerne i risvolti sulle nostre vite private diventa un atto fondamentale per difendere la nostra libertà.
+Tecnologie federate come matrix, mastodon e peertube sono capaci di decentralizzare un&amp;rsquo;internet ormai centralizzata, e sono di fondamentale importanza per renderci nuovamente proprietari dei nostri dati, difendere il nostro diritto alla privacy e rimettere le nostre identità virtuali nelle mani piu sicure: le nostre.</description>
+    </item>
+    
+    <item>
+      <title>[ITA] Linux Day Palermo  Sicurezza Informatica</title>
+      <link>https://palinuro.dev/posts/1/01/ita-linux-day-palermo-sicurezza-informatica/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://palinuro.dev/posts/1/01/ita-linux-day-palermo-sicurezza-informatica/</guid>
+      <description>Talk: Introduzione al Free software Tenutosi in occasione del Linux Day 2019 di Palermo [ENG] organizzato dal Linux User Group FreeCircle
+  Abstract [ITA] Il talk introduttivo di questo Linux Day mira a presentare il mondo del Software Libero e le dinamiche che permettono a tale sistema di essere innovativo e altamente resiliente.
+Verranno descritti gli strumenti che permettono al Software Libero di garantire e difendere legalmente i diritti sia degli utenti che degli sviluppatori, e verranno presentate le licenze, le distribuzioni e le comunità caratteristiche di questo mondo.</description>
+    </item>
+    
+    <item>
+      <title>[ITA] Slide introduzione corso linux</title>
+      <link>https://palinuro.dev/posts/1/01/ita-slide-introduzione-corso-linux/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://palinuro.dev/posts/1/01/ita-slide-introduzione-corso-linux/</guid>
+      <description>Introduzione linux Slides della prima lezione introduttiva al mio corso linux.
+Slides</description>
+    </item>
+    
+    <item>
+      <title>[ITA] Slides corso containers freecircle</title>
+      <link>https://palinuro.dev/posts/1/01/ita-slides-corso-containers-freecircle/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://palinuro.dev/posts/1/01/ita-slides-corso-containers-freecircle/</guid>
+      <description>Introduzione ai containers Slides del mio corso ai containers tenuto presso FreeCircle, il Linux User Group di Palermo
+Slides</description>
+    </item>
+    
+    <item>
+      <title>Hire Me</title>
+      <link>https://palinuro.dev/hire/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://palinuro.dev/hire/</guid>
+      <description>As a Cyber Security Consultant As a Cyber Security Teacher / Trainer As a Penetration Tester / Ethical Hacker As a Senior System Administrator and Cloud Engineer As a DevSecOps As a Debian Software Developer Send me an email for a quote</description>
+    </item>
+    
+  </channel>
+</rss>
