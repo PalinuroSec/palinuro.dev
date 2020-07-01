@@ -1,5 +1,5 @@
 ---
-layout: post
+date: 2019-05-05T10:58:08-04:00
 title:  "[ITA] Slides corso containers freecircle"
 ---
 

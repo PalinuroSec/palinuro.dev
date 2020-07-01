@@ -1,5 +1,5 @@
 ---
-layout: post
+date: 2018-03-22T10:58:08-04:00
 title:  "[ITA] Slide introduzione corso linux"
 ---
 

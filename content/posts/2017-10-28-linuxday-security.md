@@ -1,5 +1,5 @@
 ---
-layout: post
+date: 2017-10-28T10:58:08-04:00
 title:  "[ITA] Linux Day Palermo  Sicurezza Informatica"
 ---
 

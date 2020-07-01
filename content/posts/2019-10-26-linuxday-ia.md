@@ -1,8 +1,7 @@
 ---
-layout: post
+date: 2019-10-26T10:58:08-04:00
 title:  "[ITA] Linux Day Palermo  Intelligenza Artificiale"
 ---
-
 ### Talk: Difendersi nell'era dell'intelligenza artificiale
 
 Tenutosi in occasione del [Linux Day 2019 di Palermo](https://linuxday.thefreecircle.org/2019/it/) [[ENG]](https://linuxday.thefreecircle.org/2019/en) organizzato dal Linux User Group [FreeCircle](https://thefreecircle.org)

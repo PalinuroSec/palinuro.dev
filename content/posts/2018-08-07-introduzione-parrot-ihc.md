@@ -1,5 +1,5 @@
 ---
-layout: post
+date: 2018-08-07T10:58:08-04:00
 title:  "[ITA] Italian Hacker Camp  Parrot OS"
 ---
 

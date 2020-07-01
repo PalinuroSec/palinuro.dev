@@ -179,18 +179,32 @@ disableHugoGeneratorInject = false
 
 [menu]
   [[menu.external]]
+    weight     = 5
     identifier = "mirror"
     name       = "Mirror"
     url        = "https://mirror.palinuro.dev/"
   [[menu.external]]
+    weight     = 6
     identifier = "cryptpad"
     name       = "CryptPad"
     url        = "https://crypt.palinuro.dev/"
   [[menu.main]]
+    weight     = 1
+    identifier = "posts"
+    name       = "Posts"
+    url        = "posts/"
+  [[menu.main]]
+    weight     = 2
     identifier = "hire"
     name       = "HireMe"
     url        = "hire/"
   [[menu.main]]
-    identifier = "posts"
-    name       = "Posts"
-    url        = "posts/"
+    weight     = 3
+    identifier = "encrypt"
+    name       = "Encrypt"
+    url        = "encrypt/"
+  [[menu.main]]
+    weight     = 4
+    identifier = "verify"
+    name       = "Verify"
+    url        = "verify/"
