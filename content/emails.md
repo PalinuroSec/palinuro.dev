@@ -4,16 +4,16 @@ aliases = ["email"]
   name = "Palinuro"
 +++
 
-## me AT palinuro DOT dev
+## me@palinuro.dev
 Personal email address on ProtonMail
 
-## palinuro AT parrotsec DOT org
+## palinuro@parrotsec.org
 Personal email on [Parrot Security](https://parrotsec.org) servers
 
-## palinuro AT linux DOT it
+## palinuro@linux.it
 [Linux italia](https://www.linux.it) address
 
-## lorenzo.faletra AT libreitalia DOT it
+## lorenzo.faletra@libreitalia.it
 [Libre italia](https://www.libreitalia.org) address
 
 
