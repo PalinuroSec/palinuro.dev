@@ -1,11 +1,11 @@
 +++
 title = "Emails"
-aliases = ["email"]
+aliases = ["email", "mail", "contacts", "contact"]
   name = "Palinuro"
 +++
 
 ## me@palinuro.dev
-Personal email address on ProtonMail
+Personal email on ProtonMail
 
 ## palinuro@parrotsec.org
 Personal email on [Parrot Security](https://parrotsec.org) servers
