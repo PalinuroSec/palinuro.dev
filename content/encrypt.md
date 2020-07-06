@@ -33,7 +33,7 @@ STEPS
 4. Encrypt your message using my key as target
 
 # Protonmail and Tutanota
-If you have a Prootonmail or Tutanota account, it will automatically encrypt your message with my Protonmail or Tutanota keys
+If you have a Protonmail or Tutanota account, it will automatically encrypt your message with my Protonmail or Tutanota keys
 
 DOWNSIDES: it works only with protonmail->protonmail or tutanota->tutanota communications. The email protocol security is broken at its core, and inter-provider email exchange is NOT safe unless both parties use custom end-to-end encryption on top of it, with not-so-practical techniques as shown above
 
