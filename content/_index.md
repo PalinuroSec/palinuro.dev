@@ -7,7 +7,7 @@ aliases = ["Home"]
 ## Who?
 
 * Founder and Director of [Parrot Security](https://parrotsec.org).
-* Cyber Intelligence Specialist at [Celebrity Hunted italy - Season 1](https://www.imdb.com/name/nm11366658/)
+* [Cyber Intelligence Specialist](https://www.imdb.com/name/nm11366658/) at [Celebrity Hunted italy - Season 1](https://it.wikipedia.org/wiki/Celebrity_Hunted:_Caccia_all%27uomo#Cacciatori)
 * [HackTheBox](https://www.hackthebox.eu) Employee.
 * [Debian](https://salsa.debian.org/palinuro-guest) and [Devuan](https://git.devuan.org/palinuro) Lover (and occasional contributor).
 * Gopher and Pythonist.
