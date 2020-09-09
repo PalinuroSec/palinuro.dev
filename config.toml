@@ -166,7 +166,7 @@ disableHugoGeneratorInject = false
   [[params.social]]
     name = "email"
     desc = "Email"
-    url  = "emails"
+    url  = "emails/"
 
 
 

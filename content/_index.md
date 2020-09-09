@@ -1,6 +1,6 @@
 +++
 title = "Index"
-aliases = ["Home"]
+aliase = ["Home"]
   name = "Palinuro"
 +++
 
