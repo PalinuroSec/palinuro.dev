@@ -68,4 +68,4 @@ STEPS
 1. Get my GPG public key from [https://deb.parrot.sh/misc/palinuro.gpg](https://deb.parrot.sh/misc/palinuro.gpg)
 2. Install the [official GPG client](https://gnupg.org/), or [another PGP client](https://www.openpgp.org/software/)
 3. Import my key
-4. Verify if my signature is valid
+4. Verify if the signature on my messages is valid

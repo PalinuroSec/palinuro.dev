@@ -32,6 +32,17 @@ STEPS
 3. Import my key
 4. Encrypt your message using my key as target
 
+
+# Matrix Chat
+
+Matrix is an open and federated chat protocol with very advanced features and strong encryption. It is designed to replace xmpp, irc and other instant messaging systems and offer a common protocol for secure and encrypted communication.
+
+DOWNSIDES: not as widely adopted as it deserves. Some of its clients may not implement cryptography properly: make sure to use a client with good crypto implementation, like https://element.io
+
+My matrix ID is **palinuro:matrix.org**
+
+![Element.io Matrix Client](../img/matrix-element.jpg)
+
 # Protonmail and Tutanota
 If you have a Protonmail or Tutanota account, it will automatically encrypt your message with my Protonmail or Tutanota keys
 
@@ -59,9 +70,3 @@ Telegram is fine for public conversation, but it is one of the worst pieces of s
 Anyways it supports **Secret Chats** with end-to-end encryption
 
 DOWNSIDES: secret chats are optional, and the whole telegram experience is designed to push people into using the *default* unencrypted alternative. Moreover Telegram decided to adopt their very own cryptographic algorhythm, which is not considered a best-practice in the crypto world, and its strength is not the best one.
-
-## Matrix / Riot Chats
-
-Matrix is an open and federated chat protocol with very advanced features, and it is designed to replace xmpp, irc and other instant messaging systems and offer a common protocol for secure and encrypted communication.
-
-DOWNSIDES: not as widely adopted as it deserves. Some of its clients don't implement the cryptographic parts properly, so make sure to use a client with good crypto implementation, like riot.im
