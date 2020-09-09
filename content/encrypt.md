@@ -6,7 +6,7 @@ aliases = ["crypt", "encrypt"]
 
 If you need to send me a confidential message, there are several ways you can do that safely.
 
-Need to verify a digital signature from me? visit the [Verify Page](../verify) instead.
+Need to verify a digital signature from me? visit the [Verify Page](../verify/) instead.
 
 
 # Keybase

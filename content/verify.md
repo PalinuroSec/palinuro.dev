@@ -6,7 +6,7 @@ aliases = ["verify", "signed-message", "check"]
 
 if you received a digitally signed message from me, or from someone who claims to be me, tese are the steps to verify if my message is valid.
 
-Need to send me an encrypted message? visit the [Crypt Page](../encrypt) instead.
+Need to send me an encrypted message? visit the [Crypt Page](../encrypt/) instead.
 
 ## Example signed message from my key:
 ```

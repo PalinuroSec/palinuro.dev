@@ -18,7 +18,7 @@ Personal email on [Parrot Security](https://parrotsec.org) servers
 
 
 
-# [Send me and encrypted message](../crypt)
+# [Send me and encrypted message](../crypt/)
 
 
 
