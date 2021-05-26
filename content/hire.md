@@ -4,9 +4,7 @@ aliases = ["Hire", "hireme"]
   name = "Palinuro"
 +++
 
-## As a Cyber Security Consultant
-
-## As a Cyber Security Teacher / Trainer
+## As a Cyber Security Specialist / Educator
 
 ## As a Penetration Tester / Ethical Hacker
 
@@ -15,6 +13,8 @@ aliases = ["Hire", "hireme"]
 ## As a DevSecOps
 
 ## As a Debian Software Developer
+
+## As a Blockchain and Cryptocurrency Specialist
 
 
 

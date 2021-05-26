@@ -4,6 +4,10 @@ aliases = ["email", "mail", "contacts", "contact"]
   name = "Palinuro"
 +++
 
+# [Send me an encrypted message](../crypt/)
+Security and confidentiality are very important. Use the link above to encrypt your message in a way that only i can decrypt.
+
+
 ## me@palinuro.dev
 Personal email on ProtonMail
 
@@ -17,8 +21,6 @@ Personal email on [Parrot Security](https://parrotsec.org) servers
 [Libre italia](https://www.libreitalia.org) address
 
 
-
-# [Send me and encrypted message](../crypt/)
 
 
 

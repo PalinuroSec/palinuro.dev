@@ -106,7 +106,7 @@ disableHugoGeneratorInject = false
   [[params.social]]
     name = "gpg"
     desc = "Gpg Cryptographic key"
-    url = "https://deb.parrot.sh/misc/palinuro.gpg"
+    url = "https://keybase.io/palinuro/pgp_keys.asc"
     external = true
 
   [[params.social]]
@@ -125,12 +125,6 @@ disableHugoGeneratorInject = false
     name = "mastodon"
     desc = "Mastodon"
     url = "https://social.librem.one/@palinuro"
-    external = true
-
-  [[params.social]]
-    name = "telegram"
-    desc = "Telegram"
-    url  = "https://t.me/palinuro"
     external = true
 
   [[params.social]]
@@ -164,6 +158,12 @@ disableHugoGeneratorInject = false
     external = true
 
   [[params.social]]
+    name = "telegram"
+    desc = "Telegram"
+    url  = "https://t.me/palinuro"
+    external = true
+
+  [[params.social]]
     name = "email"
     desc = "Email"
     url  = "emails/"
@@ -180,15 +180,10 @@ disableHugoGeneratorInject = false
 
 [menu]
   [[menu.external]]
-    weight     = 5
-    identifier = "mirror"
-    name       = "Mirror"
-    url        = "https://mirror.palinuro.dev/"
-  [[menu.external]]
     weight     = 6
     identifier = "cryptpad"
     name       = "CryptPad"
-    url        = "https://crypt.palinuro.dev/"
+    url        = "https://crypt.parrot.sh/"
   [[menu.main]]
     weight     = 1
     identifier = "posts"

@@ -1,71 +1,81 @@
 +++
-title = "Verify a signed message"
+title = "Verify my Digital Signature"
 aliases = ["verify", "signed-message", "check"]
   name = "Palinuro"
 +++
 
-if you received a digitally signed message from me, or from someone who claims to be me, tese are the steps to verify if my message is valid.
+If you receive a digitally signed message from me, or from someone who claims to be me, this page will guide you to check whether the signature is valid or not.
 
-Need to send me an encrypted message? visit the [Crypt Page](../encrypt/) instead.
+Need to send me an encrypted message instead? visit the [Encrypt Page](../encrypt/).
 
-## Example signed message from my key:
+## Sample Message:
+
+The following is how a digitally signed message looks like. You can use it to test the signature verification systems described below.
+
+
 ```
 -----BEGIN PGP SIGNED MESSAGE-----
-Hash: SHA256
+Hash: SHA512
+
+
 
 hello, i am Lorenzo Faletra, trust whatever i say in this message
 only if this signature is either valid and generated with my key.
 
 also make sure this message was originally intended for you
-and it is not being re-used by someone to fool you.
+and it has not been re-used on a different context to fool you.
 
 consider my signatures valid only if applied on messages
 containing explicit reference to their context to prevent
-signature-reuse of short and generic messages
+signature-reuse of short and generic messages.
 
 this specific message is a sample that i made for my personal website
 and, unless i change it, you should find the original content here
 https://palinuro.dev/verify
 
-every other use of this message should be considered invalid and suspicious
+every other use of this message should be considered invalid and suspicious.
+
 -----BEGIN PGP SIGNATURE-----
 
-iQIzBAEBCAAdFiEEWBedOTCXhoOq+BJIbsyHWWXressFAl78dV4ACgkQbsyHWWXr
-esuPvRAAssPYX6RjVH6hCBbChvfr20GKv8QIyKoQlC8SBnFZtayMRCTz1gETgHe0
-mvJaVx6gFZkSe53VdANgk62zhBxbNIML70E9wH8SwGbLCLgTcvsBRbFDqB9jdjiz
-rQL+gnIlJ//4oN+wnDy3fh39celYVcm3ZVkJVwJ/ceVKOZVEhdYndTP7K5dtV3mZ
-82RZA9oVuGDj8nd0X3YRnYGBhv1oOJaVbIZi6tlI2ZC76TW6UFmkuXvdJJMhMuHF
-3A5wOGBXBlm5zEuenHwNNvGMJcqclY+QIvqHLkoCZwOdK5EcReziH3W+I++RayxO
-9T44ME8c1/up0QdN9pG7hsPIxGjiUktagQqH/9LqgnAmsmZBVpssedgDqar4KTM6
-VdqJkUbvCtJuDM7O2gTZdxcd6AA3+z6X8h6cQ/K1LChodC72SlwRn9Y5zueUUkjh
-yH/+0Z2uw/dxm91yeaipZeskleIEYWHFCulQv8FTUh0G1KKtn7GMtZvoZvVw7r+W
-u5M8GH8jyv1ecUpyyDEPfYD3LolTvbqhydmyT6e5IBooj9hbKKRctNTGv+sw3pG2
-CNshvDD+VRLdL9rh4XiAZLpkNVAKYSLVfixPPAOmg300bHzh5nJ+mfS40HXIpwTu
-BQl5mF0/RWiu8zJ73PoiivLNfzPDvloqR63HHaOefY0wcqrxUpk=
-=kbAk
+iQIzBAEBCgAdFiEEWBedOTCXhoOq+BJIbsyHWWXressFAmCuN4kACgkQbsyHWWXr
+essuORAAwAwuxtRUqVF2TpLxHOIN2omNamo8iLmGx1iV0HVAS79GJuFAfos5gH7w
+IiYs+eOd4yZYLrJdoJGZCmDUySvtTM/A59daR8IISBYLYGheZN9qknUUe7WMkPNS
+TooiJ48WhP2RwZ5IoGY3tOuLNwLmKKXKgv8c3OXtG7Yh+WNvsOcPdRclSrjRozdE
+ZSKvMJs13t6ahiGlhp/WVbxlC8TS5e4Tyz46T+9jmJRxAzkORt4VFHVXH+fPq3GR
+d8xXrBBXpIk8RYiP1wBg5o3mj7JxZftDQ1BnUXumXqxNGNbTXtAGeKVsrPFpcU3e
+zkFEetnYaSzjrHen0rYFsVXlGc0cCZsSv2VEV58daDh7a1kVNiwBJ8HnVQ7ELAoc
+p2/Yur0deatCoteBbMlV4yaHJ31sBY9iAUmnGsEeOO5VACq12r068y/94sODz39p
+MBxosoH7GKrPyLOFa/zhb3GEPNiuKZyvB4CwdYXPJcdVaB2FzFtHFR44F3och5LR
+MpUYRrwuTDGX8uwvsPagtud58UoJtWJAotwU0wfKx5wSM5eeP/znxD/6iMk34LHh
+w6VF+qgWkBLA69JduXT8ovBBOaDvz58tMNHVHBPUkP+w0nQL8AGBVF1RBD30YKfe
+cqf0INsi03HDXRs3Wf+Uofn/TqBOWUoJXjDB7fTl3dIHUY2y1AY=
+=2BWe
 -----END PGP SIGNATURE-----
 ```
 
-# Keybase
-Keybase is an interesting company that offers a very easy to use platform to make cryptography accessible to everyone
+# Method 1: Keybase
+Keybase is the easiest platform to make cryptography accessible to everyone.
+With keybase you can encrypt and decrypt messages using open protocols.
 
-DOWNSIDES: centralized platform hosted on Amazon AWS and proprietary backend (but fortunately open source clients)
+You can use the keybase website to check whether my digital signature is valid or not.
+
+DOWNSIDES (for those who care): The website is hosted on Amazon AWS and the backend is not open source.
 
 ![Keybase encryption](../img/keybase-signature.jpg)
 
 [Open Keybase verification page](https://keybase.io/verify#palinuro)
 
 
-# GPG
+# Method 2: GPG
 GNU Privacy Guard is the most advanced secure communication and signature software available, and uses the PGP standard, which is what i personally trust the most.
 
-DOWNSIDES: it may be hard to use if your are not a tech guy
+DOWNSIDES: It is very hard to use if your are not a techie
 
 ![GPG encryption](../img/gpg-signature.jpg)
 
 STEPS
 
-1. Get my GPG public key from [https://deb.parrot.sh/misc/palinuro.gpg](https://deb.parrot.sh/misc/palinuro.gpg)
+1. Get my GPG public key from [https://keybase.io/palinuro/pgp_keys.asc](https://keybase.io/palinuro/pgp_keys.asc)
 2. Install the [official GPG client](https://gnupg.org/), or [another PGP client](https://www.openpgp.org/software/)
 3. Import my key
 4. Verify if the signature on my messages is valid
