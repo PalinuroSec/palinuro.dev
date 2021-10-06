@@ -204,3 +204,8 @@ disableHugoGeneratorInject = false
     identifier = "verify"
     name       = "Verify"
     url        = "verify/"
+  [[menu.main]]
+    weight     = 5
+    identifier = "Donate"
+    name       = "Donate"
+    url        = "donate/"
