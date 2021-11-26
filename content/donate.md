@@ -57,54 +57,81 @@ BTC: bc1qazapalv06cmrxdy744zv5hap04rpxkw296qjv4
 
 BTC: 1PaRrotouWgDVeiGTaoGRdXYQdFcjoo7fw (parrot donations)
 
-## Ethereum, Polygon and ERC20
+- --------------------------------------------------
+
+## Ethereum, Polygon, AVAX-C, BSC
 ETH: 0xBFC582fE9cD7142Ed08E04d06e2d8C8Df98f6A89
 
-The Ethereum address also supports all the ERC20 tokens and the POLYGON network.
+The address also supports ERC20 tokens
+and ERC721 NFTs on Ethereum, Polygon, AVAX-C and BSC
+
+- --------------------------------------------------
+
+## Terra
+LUNA: terra19a84uu67r7yh30el4pjzpgqnkfhk7we7hfkx6a
+
+- --------------------------------------------------
+
+## Solana
+SOL: DaG6HjbQhw3V8GTjFSkjYJDYoVSH2oypzYQfnkn5UqGE
+
+- --------------------------------------------------
 
 ## Litecoin
 LTC: MWrbYDBgYZRcjYKcc5btrG7WeKctb5cYwv
 LTC Bech32: ltc1q7r7dvl7q34nc0gsqrgfs92kazzksd209rxf29c
 
+- --------------------------------------------------
+
 ## Dogecoin
 DOGE: DCbGvxAUKnkHunWNsxCiqT9wXxasjrxcK9
 
-## Stellar and its tokens
-XLM: GCGLGZ3V3NLKF3YTMOIDUEHDOBTZ3BOMUVAH4TNNRVQHTA4JVOGRS4EY
+- --------------------------------------------------
 
 ## Tron and TRC20 tokens
 TRX: TBAhnbm6Nxa4K8m59EWS4xNSsz7Wd2DZ2r
 
-## Binance Chains
-BEP-2 (Binance Chain): bnb1h8l87ph9eujnlc9j8l6atun3jtm4fzz6sa469q
-BEP-20 (Binance Smart Chain): 0xBFC582fE9cD7142Ed08E04d06e2d8C8Df98f6A89
+- --------------------------------------------------
 
-## Terra
-TERRA: terra19a84uu67r7yh30el4pjzpgqnkfhk7we7hfkx6a
+## Stellar and its tokens
+XLM: GCGLGZ3V3NLKF3YTMOIDUEHDOBTZ3BOMUVAH4TNNRVQHTA4JVOGRS4EY
 
-## Solana
-SOL: DaG6HjbQhw3V8GTjFSkjYJDYoVSH2oypzYQfnkn5UqGE
+- --------------------------------------------------
 
 ## Polkadot
 DOT: 16MD5T9n5z1P5ySHNDCT3mBvjaq5ji9FDZCg34eLXP3hVfqX
 
+- --------------------------------------------------
+
 ## Tezos
 XTZ: tz1gsM1zDFgaE1T4pur6UGzFeBK828hVXfGs
+
+- --------------------------------------------------
 
 ## Zcash
 ZEC: t1ZkmApPkhc3HAWphGgk9LTDrcepCz19YMC
 
+- --------------------------------------------------
+
 ## Dash
 DASH: Xh3fUAn9owuiznNf9FTJpC94Wuu9mgoBaB
+
+- --------------------------------------------------
 
 ## DigiByte
 XDB: dgb1qzjjfv864et6svnh8ucd4tdfl5ffvkejx6u0208
 
+- --------------------------------------------------
+
 ## Algorand
 ALGO: GHK7U5RGOAS6QHGPD5V73DV5P3FJ75ETO4N3JMCC3Q2QVNQDK635XP2P54
 
+- --------------------------------------------------
+
 ## Cosmos
 ATOM: cosmos1wwj87mhcru3q5w2m7pccg0kaykvqfj0zuggmrx
+
+- --------------------------------------------------
 
 ## VeChain
 VET:  0xE1a1857096DBda3A27DF48ABfcB161894EaB0231
@@ -112,19 +139,19 @@ VET:  0xE1a1857096DBda3A27DF48ABfcB161894EaB0231
 
 -----BEGIN PGP SIGNATURE-----
 
-iQIzBAEBCgAdFiEEVk/M+nIERnPO2F+PytEC9nxQpbkFAmF1+hkACgkQytEC9nxQ
-pbm4xQ//YuQ0S5kavGcS0WB5D++5NPSnPoZgiMAnmHNkx7QfTikotHEXCV0afZmv
-s3wadTYd5uyGtMforpllK5iEOKDeziTug2FzzaFvMmusqGPTHCtNCUxA0ChRs7CY
-vgN61pDmUmAS+HZxXvhgSxMlYF8+UzQAdiF73TZ45LMG3DZ2PGKKe4eCfdg4Jwmc
-S3NScHD/Q4UJ3+C7Nwo8X2KpDdMFFH4g8tydKs1HsdwCHAhjaO29rMLrykLDWHI+
-swWZ7q8JDQuRXJ6Vb9rbBipFp0rJ0Wti9tBdCjXbnAnj0cUw0WwyDKcMGAtqzuyQ
-/Y5WGb1O58xwvXCbY5hn+MCKEqc9qvcoFcko7Ea20170UYzAc6DQAYgO5n1P15mJ
-mHPIyD2Xz7AYNByNDgI6psgwXCkyNXm7sZjeZWd1ziL0mXFoQ21t6zt6AhbAVpuA
-cj2NZsT0gt+RY9iXYk2vx3SCGunRtbhn/m7fv5SAmoI3lkLL4xGf+x8QMmQE8VRM
-vbDJwYICRANl1+Pu1d61WXRyWDMJJdtV8iDpLJtvGak5kTLjGHW4xJrT5Y7AfdBj
-TmpomK0mm5CmudDJuTETTHm99ZbjEpHMNYWF1REuPCHRE30kJ7+r+i2m0/hZKvfT
-TqDXu0n+AWXInYI+lkRDLMzP3yK2l36VoCm1g2LgiWdRnPX6Syk=
-=kIYj
+iQIzBAEBCgAdFiEEVk/M+nIERnPO2F+PytEC9nxQpbkFAmGgXRcACgkQytEC9nxQ
+pblgHxAAu/yr6h+Gz+rcy/rXI2HrZSCGSULnycAWcrxm3LwgMN1i5yMJ/tllMc4f
+O7iFL+u9uzq40GRvx9lyXEnSfr3OJDT0qG6mZgFMB9eW2qniMb06VlhL8OC7wfxJ
+JOKX7DK00TaH9NK7yIjK1pMeV5LhtpypnwP3KsH3YHUCnAPd4WBK3p0KaBKMnAph
+yI4MAyYR43HQqyql7i0Cbu/DFiHmG0yckuw/07eBdKM2bwXA9tZlUhyUMQSdnV8X
+8BUocXNb3TX952JPxoi/vgxBPDdbYO4WSlLZEzJ09MtzYCugu4ug+3pz3pll3/N9
+Sl6wB18Vsl7JS/sYHxsnBeTjFC2P0mAOcjYYyaJe4Jo104mgEw4xWOcVDRgF+/GH
+ZRZqBmUUEB1o7w9+E7moYDAlowxLKVLXyKj2/8b8e4PGlVAu/Otu+XYV9tgyc/wI
+4QHa91fS+idsRbgaRQUBWIBekQSIbDbwkG0l78MPxxI2L45l9rOGITQQOSrt390n
+gpRtXcuvlaF+K6GWvZsozLaqJXczJhNF1vK/mNRztS518F13UXGT3NwWlvlaL2Gr
+Msy02hKIc3NqSC7t4etiMQ14Qoz5p3UGIZSf+5Fxx/Fa7XHbhrrSYGYjxqQ6HVe/
+zJrZYzpa28xf/hvzRYKtqsufWslvtAu+8Sx37GNMAviLkdgbVYo=
+=Hu0j
 -----END PGP SIGNATURE-----
 ```
 
