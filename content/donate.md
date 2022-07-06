@@ -6,14 +6,13 @@ aliases = ["pay", "wallet"]
 
 ## Debit card / Revolut
 
-My Revolut id is [@palinuro](https://revolut.me/palinuro)
+Donate **by card** on Revolut: [@palinuro](https://revolut.me/palinuro)
 
-You can optionally use your Mastercard or Visa card without a Revolut account.
+You can use your Mastercard or Visa card without a Revolut account.
 
 ## PayPal
 
-My PayPal account is [@palinuro](https://paypal.me/palinuro)
-You can use this address to donate to the Parrot Project.
+Donate via Paypal: [@palinuro](https://paypal.me/palinuro)
 
 ## Patreon
 
@@ -57,101 +56,70 @@ BTC: bc1qazapalv06cmrxdy744zv5hap04rpxkw296qjv4
 
 BTC: 1PaRrotouWgDVeiGTaoGRdXYQdFcjoo7fw (parrot donations)
 
-- --------------------------------------------------
+- - --------------------------------------------------
 
-## Ethereum, Polygon, AVAX-C, BSC
+## Ethereum, Polygon, AVAX-C, BSC, Cronos
 ETH: 0xBFC582fE9cD7142Ed08E04d06e2d8C8Df98f6A89
 
 The address also supports ERC20 tokens
-and ERC721 NFTs on Ethereum, Polygon, AVAX-C and BSC
+and ERC721 NFTs on Ethereum, Polygon, AVAX-C, BSC and Cronos
 
-- --------------------------------------------------
-
-## Terra
-LUNA: terra19a84uu67r7yh30el4pjzpgqnkfhk7we7hfkx6a
-
-- --------------------------------------------------
+- - --------------------------------------------------
 
 ## Solana
 SOL: DaG6HjbQhw3V8GTjFSkjYJDYoVSH2oypzYQfnkn5UqGE
 
-- --------------------------------------------------
+- - --------------------------------------------------
 
 ## Litecoin
-LTC: MWrbYDBgYZRcjYKcc5btrG7WeKctb5cYwv
 LTC Bech32: ltc1q7r7dvl7q34nc0gsqrgfs92kazzksd209rxf29c
 
-- --------------------------------------------------
+- - --------------------------------------------------
 
 ## Dogecoin
 DOGE: DCbGvxAUKnkHunWNsxCiqT9wXxasjrxcK9
 
-- --------------------------------------------------
+- - --------------------------------------------------
+
+## Cardano
+ADA: addr1q8mwlazuwx7xmcqfgx2pnshwl4yz70na29alln0ntclttrr8tj8557dak0adrf8yys8jsrl6zqdexj7ash5ehsymtn6qcc5gt9
+
+- - --------------------------------------------------
 
 ## Tron and TRC20 tokens
 TRX: TBAhnbm6Nxa4K8m59EWS4xNSsz7Wd2DZ2r
 
-- --------------------------------------------------
+- - --------------------------------------------------
 
 ## Stellar and its tokens
 XLM: GCGLGZ3V3NLKF3YTMOIDUEHDOBTZ3BOMUVAH4TNNRVQHTA4JVOGRS4EY
 
-- --------------------------------------------------
+- - --------------------------------------------------
 
 ## Polkadot
 DOT: 16MD5T9n5z1P5ySHNDCT3mBvjaq5ji9FDZCg34eLXP3hVfqX
 
-- --------------------------------------------------
-
-## Tezos
-XTZ: tz1gsM1zDFgaE1T4pur6UGzFeBK828hVXfGs
-
-- --------------------------------------------------
+- - --------------------------------------------------
 
 ## Zcash
 ZEC: t1ZkmApPkhc3HAWphGgk9LTDrcepCz19YMC
 
-- --------------------------------------------------
-
-## Dash
-DASH: Xh3fUAn9owuiznNf9FTJpC94Wuu9mgoBaB
-
-- --------------------------------------------------
-
-## DigiByte
-XDB: dgb1qzjjfv864et6svnh8ucd4tdfl5ffvkejx6u0208
-
-- --------------------------------------------------
-
-## Algorand
-ALGO: GHK7U5RGOAS6QHGPD5V73DV5P3FJ75ETO4N3JMCC3Q2QVNQDK635XP2P54
-
-- --------------------------------------------------
-
-## Cosmos
-ATOM: cosmos1wwj87mhcru3q5w2m7pccg0kaykvqfj0zuggmrx
-
-- --------------------------------------------------
-
-## VeChain
-VET:  0xE1a1857096DBda3A27DF48ABfcB161894EaB0231
-
 
 -----BEGIN PGP SIGNATURE-----
 
-iQIzBAEBCgAdFiEEVk/M+nIERnPO2F+PytEC9nxQpbkFAmGgXRcACgkQytEC9nxQ
-pblgHxAAu/yr6h+Gz+rcy/rXI2HrZSCGSULnycAWcrxm3LwgMN1i5yMJ/tllMc4f
-O7iFL+u9uzq40GRvx9lyXEnSfr3OJDT0qG6mZgFMB9eW2qniMb06VlhL8OC7wfxJ
-JOKX7DK00TaH9NK7yIjK1pMeV5LhtpypnwP3KsH3YHUCnAPd4WBK3p0KaBKMnAph
-yI4MAyYR43HQqyql7i0Cbu/DFiHmG0yckuw/07eBdKM2bwXA9tZlUhyUMQSdnV8X
-8BUocXNb3TX952JPxoi/vgxBPDdbYO4WSlLZEzJ09MtzYCugu4ug+3pz3pll3/N9
-Sl6wB18Vsl7JS/sYHxsnBeTjFC2P0mAOcjYYyaJe4Jo104mgEw4xWOcVDRgF+/GH
-ZRZqBmUUEB1o7w9+E7moYDAlowxLKVLXyKj2/8b8e4PGlVAu/Otu+XYV9tgyc/wI
-4QHa91fS+idsRbgaRQUBWIBekQSIbDbwkG0l78MPxxI2L45l9rOGITQQOSrt390n
-gpRtXcuvlaF+K6GWvZsozLaqJXczJhNF1vK/mNRztS518F13UXGT3NwWlvlaL2Gr
-Msy02hKIc3NqSC7t4etiMQ14Qoz5p3UGIZSf+5Fxx/Fa7XHbhrrSYGYjxqQ6HVe/
-zJrZYzpa28xf/hvzRYKtqsufWslvtAu+8Sx37GNMAviLkdgbVYo=
-=Hu0j
+iQIzBAEBCgAdFiEEs1BQWTwvdlZA5t3bl8qhKfTGuaQFAmLE1NYACgkQl8qhKfTG
+uaRNzRAAtL6/GMMKW0q+9LksysoAAtKNXOB0TaaYD+p7R6cjRid33OVcsXVYf0ki
+T9RgXbIhr/OEofjrt1/zATvK8bP1NsnT6xOFYJp1lnKBHHMEkN/0j6feCc+xNhdP
+hz5/cIVMg6KHQ6ezQl0iwZd+P0KDlKNgRzpHab5+xLMk+gscNZE/4UbKDrmSxjAU
+zPgCvkQdqzhzfY03TnkrlGfRcJ4IE3hYrR2rk8FN7S7dIksFq0Tcx9yCvfxa82K3
+B1d0gxCcg+Ku5I3tU0NsATk2zeTr9fR8jwlEwAWyhT+Ks1hvBJatAk/NLc2DlETH
+owRjbaArtweCHAhMnvzfH/RfrPXso77qoE2Knj3InACYtYmorDE1ZBpsU0NQw5dw
+elkG8ghmd4ALGyI+vSBUu591Sza8YNyloBDH1vgs9i0/1GeWQ/ZBTNRkc3VJWOjI
+A1SUxocEN9znKoDcbKoXDe1VXB5LrgGPQqsjsMa5qA2L8MwXRMjOgi6jLJTdU61e
++7fYRAIan7eRF+9vkt11rrrDAU8B0j2ITWEVi0lFVtP16g4qz5DgFDCIirGItcky
+S8j5MrnTRqCcDO7+5Zf+fOPJvYr/tLqtChKVKUve1yu80H3Rl6W8yIfh8mJC1pRV
+rTvqMImvKdPoIM0SIbh3pguReGh0p5O0+1F7uu8eBkNkPKeZlNQ=
+=RqQv
 -----END PGP SIGNATURE-----
 ```
 

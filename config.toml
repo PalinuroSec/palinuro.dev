@@ -121,11 +121,11 @@ disableHugoGeneratorInject = false
     url = "https://matrix.to/#/@palinuro:matrix.org"
     external = true
 
-  [[params.social]]
-    name = "mastodon"
-    desc = "Mastodon"
-    url = "https://social.librem.one/@palinuro"
-    external = true
+#  [[params.social]]
+#    name = "mastodon"
+#    desc = "Mastodon"
+#    url = "https://social.librem.one/@palinuro"
+#    external = true
 
   [[params.social]]
     name = "github"
@@ -133,11 +133,11 @@ disableHugoGeneratorInject = false
     url  = "https://github.com/palinurosec"
     external = true
 
-  [[params.social]]
-    name = "gitlab"
-    desc = "parrot Nest"
-    url  = "https://nest.parrotsec.org/palinuro"
-    external = true
+#  [[params.social]]
+#    name = "gitlab"
+#    desc = "parrot Nest"
+#    url  = "https://nest.parrotsec.org/palinuro"
+#    external = true
 
   [[params.social]]
     name = "instagram"
