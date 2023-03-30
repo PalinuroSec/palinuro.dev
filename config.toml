@@ -1,5 +1,5 @@
-baseURL = "https://palinuro.dev"
-title   = "Lorenzo \"Palinuro\" Faletra"
+baseURL = "https://www.palinuro.me"
+title   = "Lorenzo Palinuro Faletra"
 languageCode = "en-us"
 theme = "hello-friend-ng"
 
@@ -13,7 +13,7 @@ archetypeDir = "archetypes"
 contentDir   = "content"
 dataDir      = "data"
 layoutDir    = "layouts"
-publishDir   = "public"
+publishDir   = "palinuro.me"
 
 buildDrafts  = false
 buildFuture  = false
@@ -24,7 +24,7 @@ enableRobotsTXT = true
 enableGitInfo   = false
 enableEmoji     = true
 enableMissingTranslationPlaceholders = false
-disableRSS     = false
+disableRSS     = true
 disableSitemap = false
 disable404     = false
 disableHugoGeneratorInject = false
@@ -33,7 +33,7 @@ disableHugoGeneratorInject = false
   posts = "/posts/:year/:month/:title/"
 
 [author]
-  name = "Lorenzo \"Palinuro\" Faletra"
+  name = "Lorenzo Palinuro Faletra"
 
 [blackfriday]
   hrefTargetBlank = true
@@ -57,7 +57,7 @@ disableHugoGeneratorInject = false
   keywords = ""
   images = [""]
 
-  homeSubtitle = "My personal website"
+  homeSubtitle = "Explore my universe"
 
   # Prefix of link to the git commit detail page. GitInfo must be enabled.
   # gitUrl = ""
@@ -98,45 +98,33 @@ disableHugoGeneratorInject = false
     # logoCursorAnimate  = "2s"
 
   [params.portrait]
-    path = "/img/avatar.jpg"
+    path = "/img/palinuro.webp"
     alt = "Portrait"
 
   # Social icons
 
-  [[params.social]]
-    name = "gpg"
-    desc = "Gpg Cryptographic key"
-    url = "https://keybase.io/palinuro/pgp_keys.asc"
-    external = true
+  #[[params.social]]
+  #  name = "gpg"
+  #  desc = "Gpg Cryptographic key"
+  #  url = "https://keybase.io/palinuro/pgp_keys.asc"
+  #  external = true
 
-  [[params.social]]
-    name = "keybase"
-    desc = "Keybase"
-    url = "https://keybase.io/palinuro"
-    external = true
+  #[[params.social]]
+  #  name = "keybase"
+  #  desc = "Keybase"
+  #  url = "https://keybase.io/palinuro"
+  #  external = true
 
-  [[params.social]]
-    name = "matrix"
-    desc = "Matrix"
-    url = "https://matrix.to/#/@palinuro:matrix.org"
-    external = true
+  #[[params.social]]
+  #  name = "matrix"
+  #  desc = "Matrix"
+  #  url = "https://matrix.to/#/@palinuro:matrix.org"
+  #  external = true
 
 #  [[params.social]]
 #    name = "mastodon"
 #    desc = "Mastodon"
 #    url = "https://social.librem.one/@palinuro"
-#    external = true
-
-  [[params.social]]
-    name = "github"
-    desc = "Github"
-    url  = "https://github.com/palinurosec"
-    external = true
-
-#  [[params.social]]
-#    name = "gitlab"
-#    desc = "parrot Nest"
-#    url  = "https://nest.parrotsec.org/palinuro"
 #    external = true
 
   [[params.social]]
@@ -151,10 +139,16 @@ disableHugoGeneratorInject = false
     url  = "https://twitter.com/palinurosec"
     external = true
 
+  #[[params.social]]
+  #  name = "linkedin"
+  #  desc = "Linkedin"
+  #  url  = "https://www.linkedin.com/in/lorenzofaletra"
+  #  external = true
+
   [[params.social]]
-    name = "linkedin"
-    desc = "Linkedin"
-    url  = "https://www.linkedin.com/in/lorenzofaletra"
+    name = "github"
+    desc = "Github"
+    url  = "https://github.com/palinurosec"
     external = true
 
   [[params.social]]
@@ -171,39 +165,37 @@ disableHugoGeneratorInject = false
 
 
 
-
 [languages]
   [languages.en]
-    subtitle  = "Palinuro.dev"
+    subtitle  = "Palinuro.me"
     weight    = 1
     copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
 
 [menu]
-  [[menu.external]]
-    weight     = 6
-    identifier = "cryptpad"
-    name       = "CryptPad"
-    url        = "https://crypt.parrot.sh/"
   [[menu.main]]
     weight     = 1
+    identifier = "Contact"
+    name       = "Contacts"
+    url        = "email/"
+  
+  [[menu.main]]
+    weight     = 2
     identifier = "posts"
     name       = "Posts"
     url        = "posts/"
-  [[menu.main]]
-    weight     = 2
-    identifier = "hire"
-    name       = "HireMe"
-    url        = "hire/"
+
   [[menu.main]]
     weight     = 3
     identifier = "encrypt"
     name       = "Encrypt"
-    url        = "encrypt/"
-  [[menu.main]]
+    url        = "/encrypt"
+
+    [[menu.main]]
     weight     = 4
     identifier = "verify"
     name       = "Verify"
-    url        = "verify/"
+    url        = "/verify"
+
   [[menu.main]]
     weight     = 5
     identifier = "Donate"

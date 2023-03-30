@@ -1,3 +1,8 @@
+html {
+    min-width: 550px;
+}
+
+
 #contact-icons svg {
     width: 50px;
     height: 50px;
@@ -6,4 +11,72 @@
 .content ul {
     text-align: left;
     padding: 2em;
+}
+
+@media screen and (max-width: 1600px){
+    .portals {
+        max-width: 520px;
+    }
+}
+@media screen and (min-width: 1500px){
+    .portals {
+        max-width: 1500px;
+    }
+}
+.portals {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+    margin: auto;
+    padding: 20px;
+}
+
+.portals a {
+    font-size: 32px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    text-decoration: none;
+    text-align: center;
+    display: inline-block;
+    width: 100%;
+    vertical-align: middle;
+    line-height: 200px;
+}
+
+.portals-box {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    border-radius: 20px;
+    max-width: 450px;
+    margin: 10px;
+    text-align: center;
+    background-size: contain;
+    color: white;
+    width: 450px;
+    height: 243px;
+}
+
+.portals .hacking {
+    background-image: url("/img/portals/hacking.gif");
+}
+
+.portals .art {
+    background-image: url("/img/portals/photography.jpg");
+
+}
+
+.portals .dj {
+    background-image: url("/img/portals/dj.jpg");
+}
+
+.portals .radio {
+    background-image: url("/img/portals/radio.jpg");
+}
+
+.portals .cinema {
+    background-image: url("/img/portals/cinema.jpg");
+}
+
+.portals .parrot {
+    background-image: url("/img/portals/parrot.jpg");
 }
