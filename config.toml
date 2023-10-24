@@ -57,7 +57,7 @@ disableHugoGeneratorInject = false
   keywords = ""
   images = [""]
 
-  homeSubtitle = "Explore my universe"
+  homeSubtitle = "Voiding warranties. Breaking things"
 
   # Prefix of link to the git commit detail page. GitInfo must be enabled.
   # gitUrl = ""
@@ -98,7 +98,7 @@ disableHugoGeneratorInject = false
     # logoCursorAnimate  = "2s"
 
   [params.portrait]
-    path = "/img/palinuro.webp"
+    path = "/img/palinuro.png"
     alt = "Portrait"
 
   # Social icons
@@ -130,20 +130,20 @@ disableHugoGeneratorInject = false
   [[params.social]]
     name = "instagram"
     desc = "Instagram"
-    url  = "https://instagram.com/palinurosec"
+    url  = "https://instagram.com/palinuro.me"
     external = true
 
   [[params.social]]
     name = "twitter"
     desc = "Twitter"
-    url  = "https://twitter.com/palinurosec"
+    url  = "https://twitter.com/palinuro.me"
     external = true
 
-  #[[params.social]]
-  #  name = "linkedin"
-  #  desc = "Linkedin"
-  #  url  = "https://www.linkedin.com/in/lorenzofaletra"
-  #  external = true
+  [[params.social]]
+    name = "linkedin"
+    desc = "Linkedin"
+    url  = "https://www.linkedin.com/in/lorenzofaletra"
+    external = true
 
   [[params.social]]
     name = "github"
