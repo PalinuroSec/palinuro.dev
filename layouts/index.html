@@ -9,15 +9,51 @@
             {{- with .Site.Params.homeSubtitle }}
                 <p>{{.}}</p>
             {{- end }}
+
+            {{- with .Site.Params.social }}
+            <div style="padding: 100px;">
+                {{ partial "social-icons.html" . }}
+            </div>
+            {{- end }}
+
+
+            <div class="portals">
+                <div class="portals-box hacking">
+                    <a href="https://hack.palinuro.me">
+                        Hacking
+                    </a>
+                </div>
+                <div class="portals-box art">
+                    <a target="_blank" href="https://instagram.com/palinuro.art">
+                        Visual Arts
+                    </a>
+                </div>
+                <div class="portals-box dj">
+                    <a href="https://dj.palinuro.me">
+                        DJ Productions
+                    </a>
+                </div>
+
+                <div class="portals-box radio">
+                    <a target="_blank" href="https://qrz.com/db/it9jfw">
+                        Radio Research
+                    </a>
+                </div>
+                <div class="portals-box cinema">
+                    <a target="_blank" href="https://www.imdb.com/name/nm11366658/">
+                        Cinema
+                    </a>
+                </div>
+                <div class="portals-box parrot">
+                    <a target="_blank" href="https://parrotsec.org">
+                        My Company
+                    </a>
+                </div>
+                
+            </div>
             <div class="content">
                 {{ .Content }}
             </div>
-
-            {{- with .Site.Params.social }}
-                <div>
-                    {{ partial "social-icons.html" . }}
-                </div>
-            {{- end }}
         </div>
     </main>
 {{ end }}
